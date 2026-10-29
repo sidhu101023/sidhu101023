@@ -4,7 +4,7 @@
 
 ### AI Engineer | Machine Learning | LLMs | Deep Learning
 
-Building intelligent systems that solve real-world problems.
+Try To Reduce Manual Work Using AI.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning;Building+LLMs+from+Scratch;Exploring+RAG+and+AI+Agents;Turning+Ideas+into+Projects)](https://git.io/typing-svg)
 
@@ -18,50 +18,20 @@ Building intelligent systems that solve real-world problems.
 ## 🚀 About Me
 
 - 🎓 AI Engineering student at VIT Pune
-- 🏆 National Hackathon Winner
 - 🤖 Focused on Artificial Intelligence and Machine Learning
 - 🧠 Exploring Transformers, LLMs, RAG and AI Agents
 - 🔬 Building language models from scratch
-- 🔐 Interested in Blockchain, Cybersecurity and Cloud Computing
 - 🎯 Goal: Build impactful AI products and research-driven projects
 
 ## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" height="50" alt="Python, C++, C, Java, JavaScript and TypeScript"/>
-</p>
-
-### 🤖 AI / ML / Deep Learning
-
-<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50" alt="TensorFlow and PyTorch"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face"/>
   <img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="50" alt="HTML, CSS, React, Node.js and Express"/>
-</p>
-
-### 🗄️ Databases & Backend
-
-<p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="50" alt="MongoDB, PostgreSQL and Firebase"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" height="50" alt="Git, GitHub, VS Code, Docker, Linux and Postman"/>
-</p>
-
-### 🔐 Emerging Technologies
-
-<p>
   <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="Solidity"/>
   <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="50" alt="Ethereum"/>
 </p>
