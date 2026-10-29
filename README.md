@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Siddharth 👋
 
@@ -19,33 +18,53 @@ Building intelligent systems that solve real-world problems.
 ## 🚀 About Me
 
 - 🎓 AI Engineering student at VIT Pune
+- 🏆 National Hackathon Winner
 - 🤖 Focused on Artificial Intelligence and Machine Learning
 - 🧠 Exploring Transformers, LLMs, RAG and AI Agents
 - 🔬 Building language models from scratch
-- 💻 Interested in AI system design and model optimization
+- 🔐 Interested in Blockchain, Cybersecurity and Cloud Computing
 - 🎯 Goal: Build impactful AI products and research-driven projects
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" height="50" alt="Python, C++, C, Java, JavaScript and TypeScript"/>
+</p>
 
-**AI / ML**
+### 🤖 AI / ML / Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50" alt="TensorFlow and PyTorch"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy"/>
+</p>
 
-**Tools & Development**
+### 🌐 Web Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="50" alt="HTML, CSS, React, Node.js and Express"/>
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="50" alt="MongoDB, PostgreSQL and Firebase"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" height="50" alt="Git, GitHub, VS Code, Docker, Linux and Postman"/>
+</p>
+
+### 🔐 Emerging Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="Solidity"/>
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="50" alt="Ethereum"/>
+</p>
 
 ## 🧪 Featured Projects
 
@@ -69,11 +88,11 @@ A community-sharing platform built with JavaScript, Node.js, Express and MongoDB
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidhu101023&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sidhu101023&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu101023&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu101023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sidhu101023&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=sidhu101023&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
