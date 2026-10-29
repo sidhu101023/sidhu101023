@@ -58,10 +58,6 @@ A community-sharing platform built with JavaScript, Node.js, Express and MongoDB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sidhu101023&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu101023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
 <img src="https://streak-stats.demolab.com?user=sidhu101023&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
